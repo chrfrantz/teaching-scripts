@@ -1,6 +1,8 @@
 @echo off
 rem Generic Copy Script - Copies specified resources between folders with additional checks and cleanup options
 
+rem Check for the latest version under https://github.com/chrfrantz/teaching-scripts.git
+
 rem Revisions:
 rem Revision 0.7 - Added ability to delete folders in target drive based on wildcard, e.g. to delete any folder with given prefix (15/11/2016, C. Frantz)
 rem Revision 0.61 - Added automatic overwriting of files in target location (01/08/2016, C. Frantz)
